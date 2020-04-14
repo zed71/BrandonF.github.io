@@ -37,7 +37,7 @@
 
         <div id="Home">
                 <video autoplay muted loop id="Typing_Video">
-                <source src="../Brandon's Portfolio/Pexels Videos 2219383.mp4" type="video/mp4">
+                <source src="/Pexels Videos 2219383.mp4" type="video/mp4">
                 Your Browser doesnt support HTML5 Videos
                 </video>
         </div>
@@ -66,7 +66,7 @@
 
             <div class="Row" id="About">
                 <div class="Column_2">
-                    <img src="../Brandon's Portfolio/do-work-related-programming.jpg" alt="Coding">
+                    <img src="/do-work-related-programming.jpg" alt="Coding">
                 </div>
 
                 <div class="Column_1">
@@ -97,7 +97,7 @@
 
             <div class="Row" id="Contact">
                 <div class="Column_3">
-                    <img src="../Brandon's Portfolio/giphy.gif" alt="Typing_Image">
+                    <img src="/giphy.gif" alt="Typing_Image">
                 </div>
            
                 <div class="Column_1">
